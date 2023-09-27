@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(224, 225, 235);
+    font-family: sans-serif;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    top: 0px; left: 0px;
+}
+
+
+h1{
+    background-color: rgb(51, 53, 77);
+    color: white;
+    padding: 3px 10px;
+    margin: 0px 0px;
+}
+
+h2{
+    background-color: rgb(38, 166, 49);
+    margin-top: 0px;
+    padding-left: 7px;
+    color:white;
+    border-radius: 7px 7px 0px 0px;
+}
+
+section{
+    margin: 100px 500px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+div{
+    border: 1px solid transparent;
+    border-radius: 7px;
+    background-color: white;
+    margin:30px auto;
+    width: 600px;
+}
+
+p{
+    text-align: justify;
+    padding: 0px 7px;
+}
