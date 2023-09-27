@@ -1,0 +1,27 @@
+body{
+    background-color: #33E7FF;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing:15px;
+    color: #005A66;
+}
+
+section{
+    border: 3px dashed #005A66;
+    background-color: #00B4CC;
+    width: 200px;
+    height: 200px;
+    padding: 7px;
+    float: left;
+    margin: 10px;
+}
+
+div{
+    font-size: 45px;
+    color: #005A66;
+    float: left;
+}
